@@ -19,7 +19,7 @@ LIMIT 2500
 ```
 
 
-### Criterion syntactic validity of RDF documents
+### Syntactic validity of RDF documents and semantic validity of triples criteria
 
 SPARQL query to retrieve a list of authors from the [Biblioteca Virtual Miguel de Cervantes](http://data.cervantesvirtual.com).
 Then, the [python script](bvmc-ids.py) generates a ramdon list of authors which has been used for this criterion.  
